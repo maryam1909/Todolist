@@ -8,8 +8,35 @@ A modern to-do list app built using React.
 - Persistent data with localStorage
 - Input validation
 
-## Getting Started
+
+## How to Run Locally
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/react-todo-app.git
+```
+
+### 2. Navigate to the Project Directory
+
+```bash
+cd react-todo-app
+```
+
+### 3. Install Dependencies
 
 ```bash
 npm install
+```
+
+### 4. Start the App
+
+```bash
 npm start
+```
+
+This will launch the development server at:
+
+```
+http://localhost:3000
+```
