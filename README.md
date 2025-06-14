@@ -14,13 +14,13 @@ A modern to-do list app built using React.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/react-todo-app.git
+git clone https://github.com/maryam1909/Todolist
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd react-todo-app
+cd Todolist
 ```
 
 ### 3. Install Dependencies
